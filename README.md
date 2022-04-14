@@ -13,5 +13,6 @@ If you need me for SOME REASON, put something in the discussions on this reposit
 The very first Blooket hacks, coded by Glixzzy.
 ### blacketHackCompilation
 A ton of Blacket Hacks by different users. Credit given.
-### javaBookmarklets
-What it sounds like. If you have more, I'd love them!
+### bookmarkletSamples
+What it sounds like. If you have more, I'd love them!<br>
+Also includes Premium upon request.
