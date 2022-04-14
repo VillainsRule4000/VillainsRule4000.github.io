@@ -16,3 +16,5 @@ A ton of Blacket Hacks by different users. Credit given.
 ### bookmarkletSamples
 What it sounds like. If you have more, I'd love them!<br>
 Also includes Premium upon request.
+### rickrollLinks
+Description Coming Soon!
