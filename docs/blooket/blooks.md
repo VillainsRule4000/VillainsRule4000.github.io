@@ -51,5 +51,5 @@ x French Toast (Sold for Spring Frog)<br>
 - Spring Frog x5<br>
 NOTHING ELSE, RELATIVELY NEW TO BLOOKET.<br>
 <br>
-<br>
+
 ### Coming Soon: Medieval Box & Wonderland Box
