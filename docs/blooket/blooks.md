@@ -23,3 +23,33 @@ x Crab (Sold for Spring Frog)<br>
 x Narwhal (Sold for Spring Frog)<br>
 x Baby Shark (Sold for Spring Frog)<br>
 x Megalodon
+## Bot Box
+Complete Collection!
+## Space Box
+✓ Earth<br>
+✓ Meteor<br>
+✓ Stars<br>
+✓ Alien<br>
+✓ Planet<br>
+✓ UFO<br>
+✓ Spaceship<br>
+✓ Astronaut<br>
+x Chroma Astronauts
+## Breakfast Box
+✓ Toast<br>
+✓ Cereal<br>
+✓ Yogurt<br>
+✓ Breakfast Combo<br>
+✓ Orange Juice<br>
+✓ Milk<br>
+✓ Waffle<br>
+✓ Pancakes<br>
+x French Toast (Sold for Spring Frog)<br>
+✓ Pizza
+## Limited Time Items
+- Lucky Frog x1
+- Spring Frog x5<br>
+NOTHING ELSE, RELATIVELY NEW TO BLOOKET.<br>
+<br>
+<br>
+### Coming Soon: Medieval Box & Wonderland Box
