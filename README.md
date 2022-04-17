@@ -1,8 +1,6 @@
-# ABlooketNobody-YT
-My profile.
-## About Me
-I am a fun person who likes Blooket.<br>
-On other parts of the web, VillainsRule is usually my username. However, sometimes that's taken.
+# TheVillainCoder
+My profile.<br>
+I am a fun person who likes Blooket.
 ## Contact Me
 I don't use Discord or Reddit or any of those things, so you can just use the Discussions tab.<br>
 ### Announcements
