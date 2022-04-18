@@ -12,11 +12,11 @@
 ✓ Lion<br>
 x Rainbow Panda
 ## Aquatic Box - FREQ. OPENING
-x Old Boot (Sold for Spring Frog)<br>
-x Jellyfish (Sold for Spring Frog)<br>
-x Clownfish (Sold for Spring Frog)<br>
+✓ Old Boot<br>
+✓ Jellyfish<br>
+✓ Clownfish<br>
 x Frog (Sold for Spring Frog)<br>
-x Crab (Sold for Spring Frog)<br>
+✓ Crab<br>
 ✓ Pufferfish<br>
 ✓ Blobfish<br>
 ✓ Octopus<br>
@@ -46,10 +46,12 @@ x Chroma Astronauts
 ✓ Pancakes<br>
 x French Toast (Sold for Spring Frog)<br>
 ✓ Pizza
+## Medieval Box
+Complete Collection!
 ## Limited Time Items
 - Lucky Frog x1
 - Spring Frog x5<br>
 NOTHING ELSE, RELATIVELY NEW TO BLOOKET.<br>
 <br>
 
-### Coming Soon: Medieval Box & Wonderland Box
+### Coming Soon: Wonderland Box
