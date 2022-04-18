@@ -46,9 +46,61 @@ Blooket Aquatic Box Trivia<br>
 Blooket Safari Box Trivia<br>
 COMING SOON: Blook Rarities<br>
 [View my sets](https://dashboard.blooket.com/discover?s=VillainsRule)
-# Blooks/Tokens
-Not a ton of tokens saved.<br>
-All Uncommons, Rares, and Epics.<br>
-All Legendaries except for the Megalodon.<br>
-I have 1 Lucky Frog and 5 Spring Frogs.<br>
-_I had to sell a few Blooks to get one of the Spring Frogs._
+# Blooket Blooks
+## Safari Box
+✓ Panda<br>
+✓ Sloth<br>
+✓ Tenrec<br>
+✓ Flamingo<br>
+✓ Zebra<br>
+✓ Elephant<br>
+✓ Lemur<br>
+✓ Peacock<br>
+✓ Chameleon<br>
+✓ Lion<br>
+x Rainbow Panda
+## Aquatic Box - FREQ. OPENING
+✓ Old Boot<br>
+✓ Jellyfish<br>
+✓ Clownfish<br>
+x Frog (Sold for Spring Frog)<br>
+✓ Crab<br>
+✓ Pufferfish<br>
+✓ Blobfish<br>
+✓ Octopus<br>
+x Narwhal (Sold for Spring Frog)<br>
+x Baby Shark (Sold for Spring Frog)<br>
+x Megalodon
+## Bot Box
+Complete Collection!
+## Space Box
+✓ Earth<br>
+✓ Meteor<br>
+✓ Stars<br>
+✓ Alien<br>
+✓ Planet<br>
+✓ UFO<br>
+✓ Spaceship<br>
+✓ Astronaut<br>
+x Chroma Astronauts
+## Breakfast Box
+✓ Toast<br>
+✓ Cereal<br>
+✓ Yogurt<br>
+✓ Breakfast Combo<br>
+✓ Orange Juice<br>
+✓ Milk<br>
+✓ Waffle<br>
+✓ Pancakes<br>
+x French Toast (Sold for Spring Frog)<br>
+✓ Pizza
+## Medieval Box
+Complete Collection!
+## Limited Time Items
+- Lucky Frog x1
+- Spring Frog x5<br>
+NOTHING ELSE, RELATIVELY NEW TO BLOOKET.<br>
+<br>
+
+### Coming Soon: Wonderland Box
+
