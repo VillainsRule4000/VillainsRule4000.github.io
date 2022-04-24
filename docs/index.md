@@ -1,15 +1,15 @@
 # TheVillainCoder
-My profile.<br>
-I am a fun person who likes Blooket.
+About me.<br>
+**NOTE: ALL MY FINISHED PRODUCTS CAN BE FOUND ON THE ORG '[TheVillainCoders](https://github.com/TheVillainCoders)'**
 ## Contact Me
-I don't use Discord or Reddit or any of those things, so you can just use the Discussions tab.<br>
+You can use the organization Discussions tab - I don't have Discord or any of that.<br>
 ### Announcements
 For my general announcements.<br>
-Usually Blooket or Blacket posts.
+Usually Blooket or Blax (formerly Blacket) posts.
 ### General
 Everything that's not specified elsewhere.
 ### Ideas
-Ideas for new repositories and code changes. Pull requests are fine.
+What it sounds like.
 ### Q and A
 Any questions! I will try my best.
 ### Show and Tell
@@ -18,14 +18,14 @@ Show me your code! I might fork your repository or make an announcement.<br>
 <br>
 <br>
 # My Repositories
-### [blacketHacks](https://github.com/ABlooketNobody-YT/blacketHacks)
-A ton of Blacket Hacks by different users. Credit given.
-### [bookmarkletSamples](https://github.com/ABlooketNobody-YT/bookmarkletSamples)
+### [blacketArchives](https://github.com/TheVillainCoders/blacketArchives)
+Hacks and custom Blooks from when Blax was Blacket.
+### [blaxHacks](https://github.com/TheVillainCoders/bookmarklets)
+Hacks for the new Blax! Obviously, none yet, but WHO KNOWS!!!<br>
+I'll post updates for this one in the announcements.
+### [bookmarklets](https://github.com/TheVillainCoders/bookmarklets)
 What it sounds like. If you have more, I'd love them!<br>
-Also includes Premium upon request.
-### [originalBlooketHacks](https://github.com/ABlooketNobody-YT/originalBlooketHacks)
-The very first Blooket hacks, coded by Glixzzy.
-### [rickrollLinks](https://github.com/ABlooketNobody-YT/rickrollLinks)
+### [rickroll](https://github.com/TheVillainCoders/rickroll)
 A TON of Rickroll URLs. Try these on your friends!<br>
 <br>
 <br>
@@ -59,17 +59,17 @@ COMING SOON: Blook Rarities<br>
 ✓ Chameleon<br>
 ✓ Lion<br>
 x Rainbow Panda
-## Aquatic Box - FREQ. OPENING
+## Aquatic Box - SAVING UP 10K TO BUY IN BULK
 ✓ Old Boot<br>
 ✓ Jellyfish<br>
 ✓ Clownfish<br>
-x Frog (Sold for Spring Frog)<br>
+✓ Frog<br>
 ✓ Crab<br>
 ✓ Pufferfish<br>
 ✓ Blobfish<br>
 ✓ Octopus<br>
-x Narwhal (Sold for Spring Frog)<br>
-x Baby Shark (Sold for Spring Frog)<br>
+✓ Narwhal<br>
+x Baby Shark (Once had)<br>
 x Megalodon
 ## Bot Box
 Complete Collection!
@@ -84,23 +84,12 @@ Complete Collection!
 ✓ Astronaut<br>
 x Chroma Astronauts
 ## Breakfast Box
-✓ Toast<br>
-✓ Cereal<br>
-✓ Yogurt<br>
-✓ Breakfast Combo<br>
-✓ Orange Juice<br>
-✓ Milk<br>
-✓ Waffle<br>
-✓ Pancakes<br>
-x French Toast (Sold for Spring Frog)<br>
-✓ Pizza
+Complete Collection!
 ## Medieval Box
+Complete Collection!
+## Wonderland Box
 Complete Collection!
 ## Limited Time Items
 - Lucky Frog x1
 - Spring Frog x5<br>
-NOTHING ELSE, RELATIVELY NEW TO BLOOKET.<br>
-<br>
-
-### Coming Soon: Wonderland Box
-
+NOTHING ELSE, RELATIVELY NEW TO BLOOKET.
