@@ -19,12 +19,16 @@ Show me your code! I might fork your repository or make an announcement.<br>
 <br>
 # My Repositories
 ### [blacketArchives](https://github.com/TheVillainCoders/blacketArchives)
-Hacks and custom Blooks from when Blax was Blacket.
-### [blaxHacks](https://github.com/TheVillainCoders/bookmarklets)
+Hacks and custom Blooks from when Blax was Blacket.<br>
+This repo is really archived.
+### [blaxHacks](https://github.com/TheVillainCoders/Bookmarklets)
 Hacks for the new Blax! Obviously, none yet, but WHO KNOWS!!!<br>
 I'll post updates for this one in the announcements.
 ### [bookmarklets](https://github.com/TheVillainCoders/bookmarklets)
 What it sounds like. If you have more, I'd love them!<br>
+### [READMEaddons](https://github.com/TheVillainCoders/READMEaddons)
+This is a ton of codes that you can put in a README. Next thing you know, it looks MUCH, MUCH cooler!
+![TheVillainCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVillainCoder&show_icons=true&theme=dark)
 ### [rickroll](https://github.com/TheVillainCoders/rickroll)
 A TON of Rickroll URLs. Try these on your friends!<br>
 <br>
@@ -59,18 +63,8 @@ COMING SOON: Blook Rarities<br>
 ✓ Chameleon<br>
 ✓ Lion<br>
 x Rainbow Panda
-## Aquatic Box - SAVING UP 10K TO BUY IN BULK
-✓ Old Boot<br>
-✓ Jellyfish<br>
-✓ Clownfish<br>
-✓ Frog<br>
-✓ Crab<br>
-✓ Pufferfish<br>
-✓ Blobfish<br>
-✓ Octopus<br>
-✓ Narwhal<br>
-x Baby Shark (Once had)<br>
-x Megalodon
+## Aquatic Box
+Complete Collection!
 ## Bot Box
 Complete Collection!
 ## Space Box
@@ -82,7 +76,7 @@ Complete Collection!
 ✓ UFO<br>
 ✓ Spaceship<br>
 ✓ Astronaut<br>
-x Chroma Astronauts
+x All Chroma Astronauts
 ## Breakfast Box
 Complete Collection!
 ## Medieval Box
