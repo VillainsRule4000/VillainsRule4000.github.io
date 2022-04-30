@@ -1,2 +1,4 @@
-# My Profile
-Visit [this URL](TheVillainCoder.github.io/TheVillainCoder) to get my profile.
+# Quick Links
+[My Profile](https://TheVillainCoder.github.io/TheVillainCoder)<br>
+[My Projects](https://github.com/orgs/TheVillainCoders/repositories)<br>
+[Contact Me](https://github.com/orgs/TheVillainCoders/discussions)
