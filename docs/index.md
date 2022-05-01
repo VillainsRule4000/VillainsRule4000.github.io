@@ -8,7 +8,6 @@ Org: [TheVillainCoders](https://github.com/orgs/TheVillainCoders)
 
 # [My Projects](https://github.com/orgs/TheVillainCoders/repositories)
 ### [blaxHacks](https://github.com/TheVillainCoders/blaxHacks)
-### [Blooket](https://github.com/TheVillainCoders/Blooket)
 ### [bookmarklets](https://github.com/TheVillainCoders/bookmarklets)
 ### [READMEaddons](https://github.com/TheVillainCoders/READMEaddons)
 ![TheVillainCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVillainCoder&show_icons=true&theme=dark)
