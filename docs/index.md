@@ -1,6 +1,7 @@
 # TheVillainCoder
 Note: This ACCOUNT holds all my WIPs and personal items (example: this profile) and I run an ORG that has my finished stuff.<br>
 Account: [TheVillainCoder](https://github.com/TheVillainCoder)<br>
+![TheVillainCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVillainCoder&show_icons=true&theme=dark)<br>
 Org: [TheVillainCoders](https://github.com/orgs/TheVillainCoders)
 ### [Contact Me](https://github.com/orgs/TheVillainCoders/discussions)<br>
 <br>
@@ -8,11 +9,12 @@ Org: [TheVillainCoders](https://github.com/orgs/TheVillainCoders)
 
 # [My Projects](https://github.com/orgs/TheVillainCoders/repositories)
 ### [blaxHacks](https://github.com/TheVillainCoders/blaxHacks)
-### [bookmarklets](https://github.com/TheVillainCoders/bookmarklets)
-### [READMEaddons](https://github.com/TheVillainCoders/READMEaddons)
-![TheVillainCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVillainCoder&show_icons=true&theme=dark)
+_Version 3.1_
+### [Hankypoo7/Blooket-hacks-Hankypoo7-](https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-)
 ### [rickroll](https://thevillaincoders.github.io/rickroll/)
 ### [blacketArchives](https://github.com/TheVillainCoders/blacketArchives) (Archived)
+### [bookmarklets](https://github.com/TheVillainCoders/bookmarklets) (Archived)
+### [READMEaddons](https://github.com/TheVillainCoders/READMEaddons) (Archived)
 <br>
 <br>
 
