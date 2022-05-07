@@ -10,11 +10,11 @@ Org: [TheVillainCoders](https://github.com/orgs/TheVillainCoders)
 # [My Projects](https://github.com/orgs/TheVillainCoders/repositories)
 ### [blaxHacks](https://github.com/TheVillainCoders/blaxHacks)
 _Version 3.1_
+### [GithubAddons](https://github.com/TheVillainCoders/GithubAddons)
 ### [Hankypoo7/Blooket-hacks-Hankypoo7-](https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-)
 ### [rickroll](https://thevillaincoders.github.io/rickroll/)
 ### [blacketArchives](https://github.com/TheVillainCoders/blacketArchives) (Archived)
 ### [bookmarklets](https://github.com/TheVillainCoders/bookmarklets) (Archived)
-### [READMEaddons](https://github.com/TheVillainCoders/READMEaddons) (Archived)
 <br>
 <br>
 
