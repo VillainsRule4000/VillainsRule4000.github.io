@@ -1,3 +1,37 @@
+<div id="top"></div>
+<br />
+<div align="center">
+  <a href="https://xotic.org">
+    <img src="https://avatars.githubusercontent.com/u/101288516?v=4" alt="Logo" width="200" height="200">
+  </a>
+  <h1 align="center">TheVillainCoder/VillainsRule</h1>
+
+  <p align="center">
+    May only work on Chrome.<br>
+    <br>
+    <a href="https://github.com/TheVillainCoders/Blax/issues">Report an Issue.</a>
+  </p>
+</div>
+<div id="top"></div>
+<br />
+<div align="center">
+  <h3 align="center">Using a Script</h3>
+
+  <p align="center">
+    1. Find the script you want below.<br>
+    2. Click the image.<br>
+    3. Copy the script to your clipboard.<br>
+    4. Open <a href="https://blax.xotic.org">Blax</a>.<br>
+    5. Right click and choose 'Inspect'.<br>
+    6. A window should pop up. Click the word 'Console' at the top of that window.<br>
+    7. Paste the script in.<br>
+    8. Follow any instructions on the Blax page.
+  </p>
+</div>
+<br>
+<br>
+<br>
+<br>
 # TheVillainCoder
 Note: This ACCOUNT holds all my WIPs and personal items (example: this profile) and I run an ORG that has my finished stuff.<br>
 Account: [TheVillainCoder](https://github.com/TheVillainCoder)<br>
