@@ -5,56 +5,45 @@
     <img src="https://avatars.githubusercontent.com/u/101288516?v=4" alt="Logo" width="200" height="200">
   </a>
   <h1 align="center">TheVillainCoder/VillainsRule</h1>
+  <h3 align="center">aka VillainsRule</h3>
+
 
   <p align="center">
-    May only work on Chrome.<br>
-    <br>
-    <a href="https://github.com/TheVillainCoders/Blax/issues">Report an Issue.</a>
+    Account (for personal repositories & collaborations): <a href="https://github.com/TheVillainCoder">TheVillainCoder</a><br>
+    Org (for finished projects & my owned collaborations): <a href="https://github.com/orgs/TheVillainCoders">TheVillainCoders</a><br>
   </p>
 </div>
 <div id="top"></div>
+<div align="center">
+  <h3 align="center"><a href="https://github.com/orgs/TheVillainCoders/discussions">Contact Me!</a></h3>
+</div>
+<br>
+<div id="top"></div>
 <br />
 <div align="center">
-  <h3 align="center">Using a Script</h3>
+  <h2 align="center">My Projects</a></h2>
 
   <p align="center">
-    1. Find the script you want below.<br>
-    2. Click the image.<br>
-    3. Copy the script to your clipboard.<br>
-    4. Open <a href="https://blax.xotic.org">Blax</a>.<br>
-    5. Right click and choose 'Inspect'.<br>
-    6. A window should pop up. Click the word 'Console' at the top of that window.<br>
-    7. Paste the script in.<br>
-    8. Follow any instructions on the Blax page.
+    <a href="https://github.com/TheVillainCoders/Blax">Blax</a> (Version 4.0)<br>
+    <a href="https://github.com/TheVillainCoders/GithubAddons">GithubAddons</a><br>
+    <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-">Hankypoo7/Blooket-hacks-Hankypoo7-</a><br>
+    <a href="https://thevillaincoders.github.io/rickroll">rickroll</a> (THIS IS A LIST OF RICKROLL LINKS, NOT A RICKROLL)<br>
+    <a href="https://github.com/TheVillainCoders/blacketArchives">blacketArchives</a> (Archived)<br?
+    <a href="https://github.com/TheVillainCoders/Bookmarklets">Bookmarklets</a> (Archived)
   </p>
 </div>
 <br>
-<br>
-<br>
-<br>
-# TheVillainCoder
-Note: This ACCOUNT holds all my WIPs and personal items (example: this profile) and I run an ORG that has my finished stuff.<br>
-Account: [TheVillainCoder](https://github.com/TheVillainCoder)<br>
-![TheVillainCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheVillainCoder&show_icons=true&theme=dark)<br>
-Org: [TheVillainCoders](https://github.com/orgs/TheVillainCoders)
-### [Contact Me](https://github.com/orgs/TheVillainCoders/discussions)<br>
-<br>
-<br>
+<div id="top"></div>
+<br />
+<div align="center">
+  <h1 align="center"><a href="https://dashboard.blooket.com/stats?name=VillainsRule">My Blooket Profile</a></h1>
 
-# [My Projects](https://github.com/orgs/TheVillainCoders/repositories)
-### [blaxHacks](https://github.com/TheVillainCoders/blaxHacks)
-_Version 3.1_
-### [GithubAddons](https://github.com/TheVillainCoders/GithubAddons)
-### [Hankypoo7/Blooket-hacks-Hankypoo7-](https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-)
-### [rickroll](https://thevillaincoders.github.io/rickroll/)
-### [blacketArchives](https://github.com/TheVillainCoders/blacketArchives) (Archived)
-### [bookmarklets](https://github.com/TheVillainCoders/bookmarklets) (Archived)
-<br>
-<br>
-
-# [My Blooket Profile](https://dashboard.blooket.com/stats?name=VillainsRule)
-Username: VillainsRule<br>
-Level: 100<br>
+  <p align="center">
+    Username: VillainsRule<br>
+    Level: 100<br>
+    <img src="https://user-images.githubusercontent.com/101288516/162641587-dcb45510-b811-4191-a6cd-bbb38e67ca44.png" alt="BlooketProfile Card" width="400" height="145">
+  </p>
+</div>
 <img width="448" alt="Screen Shot 2022-04-10 at 5 57 11 PM" src="https://user-images.githubusercontent.com/101288516/162641587-dcb45510-b811-4191-a6cd-bbb38e67ca44.png">
 # Custom Blooks
 <img width="877" alt="Screen Shot 2022-04-10 at 5 58 46 PM" src="https://user-images.githubusercontent.com/101288516/162641667-52e14979-8052-4f11-b1e1-cb8e833ac299.png"><br>
