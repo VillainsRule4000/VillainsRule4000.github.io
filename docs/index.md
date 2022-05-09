@@ -1,9 +1,7 @@
 <div id="top"></div>
 <br />
 <div align="center">
-  <a href="https://xotic.org">
     <img src="https://avatars.githubusercontent.com/u/101288516?v=4" alt="Logo" width="200" height="200">
-  </a>
   <h1 align="center">TheVillainCoder/VillainsRule</h1>
   <h3 align="center">aka VillainsRule</h3>
 
@@ -33,6 +31,8 @@
   </p>
 </div>
 <br>
+<br>
+<br>
 <div id="top"></div>
 <br />
 <div align="center">
@@ -41,56 +41,79 @@
   <p align="center">
     Username: VillainsRule<br>
     Level: 100<br>
-    <img src="https://user-images.githubusercontent.com/101288516/162641587-dcb45510-b811-4191-a6cd-bbb38e67ca44.png" alt="BlooketProfile Card" width="400" height="145">
+    <img src="https://user-images.githubusercontent.com/101288516/162641587-dcb45510-b811-4191-a6cd-bbb38e67ca44.png" alt="Blooket Profile Card" width="400" height="141">
   </p>
 </div>
-<img width="448" alt="Screen Shot 2022-04-10 at 5 57 11 PM" src="https://user-images.githubusercontent.com/101288516/162641587-dcb45510-b811-4191-a6cd-bbb38e67ca44.png">
-# Custom Blooks
-<img width="877" alt="Screen Shot 2022-04-10 at 5 58 46 PM" src="https://user-images.githubusercontent.com/101288516/162641667-52e14979-8052-4f11-b1e1-cb8e833ac299.png"><br>
-The Parodies of the Mad Hatter (I am obsessed with ths Blook)<br>
-From Left to Right: The Funny Hatter, the Mad Spellcaster (currently has different eyes and spyglass), Papa Hatter, the Mad Catter, and the 3D Hatter.
-# Figures and Most Used Blooks
-These change a lot. Click the link at the top to visit my current Stats and Most Used Blooks.
-# Sets
-Spamclicker<br>
-Blooket Aquatic Box Trivia<br>
-Blooket Safari Box Trivia<br>
-COMING SOON: Blook Rarities<br>
-[View my sets](https://dashboard.blooket.com/discover?s=VillainsRule)
-# Blooket Blooks
-## Safari Box
-✓ Panda<br>
-✓ Sloth<br>
-✓ Tenrec<br>
-✓ Flamingo<br>
-✓ Zebra<br>
-✓ Elephant<br>
-✓ Lemur<br>
-✓ Peacock<br>
-✓ Chameleon<br>
-✓ Lion<br>
-x Rainbow Panda
-## Aquatic Box
-Complete Collection!
-## Bot Box
-Complete Collection!
-## Space Box
-✓ Earth<br>
-✓ Meteor<br>
-✓ Stars<br>
-✓ Alien<br>
-✓ Planet<br>
-✓ UFO<br>
-✓ Spaceship<br>
-✓ Astronaut<br>
-x All Chroma Astronauts
-## Breakfast Box
-Complete Collection!
-## Medieval Box
-Complete Collection!
-## Wonderland Box
-Complete Collection!
-## Limited Time Items
-- Lucky Frog x1
-- Spring Frog x5<br>
-NOTHING ELSE, RELATIVELY NEW TO BLOOKET.
+<br>
+<div id="top"></div>
+<br />
+<div align="center">
+  <h3 align="center">Custom Blooks</h3>
+
+  <p align="center">
+    <img src="https://user-images.githubusercontent.com/101288516/162641667-52e14979-8052-4f11-b1e1-cb8e833ac299.png" alt="Blooket Custom Blooks" width="800" height="205"><br>
+    The Parodies of the Mad Hatter (I am obsessed with ths Blook) left to right:<br>
+    The Wacky Hatter,<br>
+    The Mad Spellcaster (slightly different now),<br>
+    Papa Hatter,<br>
+    The Mad Catter,<br>
+    and The 3D Hatter.
+  </p>
+</div>
+<br>
+<div id="top"></div>
+<br />
+<div align="center">
+  <h2 align="center">My Sets</a></h2>
+
+  <p align="center">
+    <a href="https://www.blooket.com/set/622253d9065ce38701245299">Spamclicker</a><br>
+    <a href="https://www.blooket.com/set/624f2f29adc794359923a685">Safari Box Trivia</a><br>
+    <a href="https://www.blooket.com/set/6251e2e45d65c030fb5f3d64">Aquatic Box Trivia</a><br
+  </p>
+</div>
+<br>
+<div id="top"></div>
+<br />
+<div align="center">
+  <h2 align="center">Blook Collection</a></h2>
+
+  <h3 align="center">Completed Boxes</a></h3>
+  
+  <p align="center">
+    Aquatic<br>
+    Bot<br>
+    Breakfast<br>
+    Medieval<br>
+    Wonderland<br>
+  </p>
+  <h3 align="center">Uncomplete Boxes</a></h3>
+  
+  <p align="center">
+    Dino - Missing Triceratops & Tyrannasaurous Rex (both of these are on an alt)<br>
+    Safari - Missing Rainbow Panda<br>
+    Space - Missing all Chromas<br>
+  </p>
+  <h3 align="center">Other</a></h3>
+  
+  <p align="center">
+    Lucky Frog (x1)<br>
+    Spring Frog (x3 on main, x5 across all accounts)<br>
+  </p>
+</div>
+<br>
+<br>
+<br>
+<div id="top"></div>
+<br />
+<div align="center">
+  <h1 align="center">TheVillainCoder/VillainsRule</h1>
+  <h3 align="center">aka VillainsRule</h3>
+
+
+  <p align="center">
+    That's me and my life (Blooket) in a nutshell.<br>
+    Signing off now,<br>
+    VillainsRule
+  </p>
+</div>
