@@ -66,7 +66,7 @@
 <div id="top"></div>
 <br />
 <div align="center">
-  <h2 align="center">My Sets</a></h2>
+  <h2 align="center">My Sets</h2>
 
   <p align="center">
     <a href="https://www.blooket.com/set/622253d9065ce38701245299">Spamclicker</a><br>
@@ -78,9 +78,9 @@
 <div id="top"></div>
 <br />
 <div align="center">
-  <h2 align="center">Blook Collection</a></h2>
+  <h2 align="center">Blook Collection</h2>
 
-  <h3 align="center">Completed Boxes</a></h3>
+  <h3 align="center">Completed Boxes</h3>
   
   <p align="center">
     Aquatic<br>
@@ -89,7 +89,7 @@
     Medieval<br>
     Wonderland<br>
   </p>
-  <h3 align="center">Uncomplete Boxes</a></h3>
+  <h3 align="center">Uncomplete Boxes</h3>
   
   <p align="center">
     Dino - Missing Triceratops & Tyrannasaurous Rex (both of these are on an alt)<br>
