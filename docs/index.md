@@ -2,8 +2,8 @@
 <br />
 <div align="center">
     <img src="https://avatars.githubusercontent.com/u/101288516?v=4" alt="Logo" width="200" height="200">
-  <h1 align="center">TheVillainCoder/VillainsRule</h1>
-  <h3 align="center">aka VillainsRule</h3>
+  <h1 align="center">VillainsRule</h1>
+  <h3 align="center">Welcome!</h3>
 
 
   <p align="center">
@@ -19,15 +19,17 @@
 <div id="top"></div>
 <br />
 <div align="center">
-  <h2 align="center">My Projects</a></h2>
+  <h2 align="center">My Projects</h2>
 
   <p align="center">
-    <a href="https://github.com/TheVillainCoders/Blax">Blax</a> (Version 4.0)<br>
-    <a href="https://github.com/TheVillainCoders/GithubAddons">GithubAddons</a><br>
+    <a href="https://github.com/VillainsRule2000/8Ball">8Ball</a><br>
+    <a href="https://github.com/villainsrule2000/Blax">Blax</a> (Version 4.0)<br>
     <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-">Hankypoo7/Blooket-hacks-Hankypoo7-</a><br>
-    <a href="https://thevillaincoders.github.io/rickroll">rickroll</a> (THIS IS A LIST OF RICKROLL LINKS, NOT A RICKROLL)<br>
-    <a href="https://github.com/TheVillainCoders/blacketArchives">blacketArchives</a> (Archived)<br?
-    <a href="https://github.com/TheVillainCoders/Bookmarklets">Bookmarklets</a> (Archived)
+    <a href="https://villainsrule2000.github.io/centirdle/">Centirdle</a><br>
+    <a href="https://github.com/villainsrule2000/GithubAddons">GithubAddons</a><br>
+    <a href="https://villainsrule2000.github.io/rickroll">rickroll</a> (NOT A RICKROLL)<br>
+    <a href="https://github.com/VillainsRule4000/BookmarkletsBETA">Bookmarklets</a> (Beta)<br>
+    <a href="https://github.com/villainsrule2000/blacketArchives">blacketArchives</a> (Archived)
   </p>
 </div>
 <br>
@@ -107,8 +109,8 @@
 <div id="top"></div>
 <br />
 <div align="center">
-  <h1 align="center">TheVillainCoder/VillainsRule</h1>
-  <h3 align="center">aka VillainsRule</h3>
+  <h1 align="center">VillainsRule</h1>
+  <h3 align="center">Goodbye</h3>
 
 
   <p align="center">
