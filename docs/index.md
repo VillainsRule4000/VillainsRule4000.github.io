@@ -24,11 +24,11 @@
   <p align="center">
     <a href="https://github.com/VillainsRule2000/8Ball">8Ball</a><br>
     <a href="https://github.com/villainsrule2000/Blax">Blax</a> (Version 4.0)<br>
+    <a href="https://github.com/VillainsRule2000/Bookmarklets">Bookmarklets</a><br>
     <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-">Hankypoo7/Blooket-hacks-Hankypoo7-</a><br>
     <a href="https://villainsrule2000.github.io/centirdle/">Centirdle</a><br>
     <a href="https://github.com/villainsrule2000/GithubAddons">GithubAddons</a><br>
     <a href="https://villainsrule2000.github.io/rickroll">rickroll</a> (NOT A RICKROLL)<br>
-    <a href="https://github.com/VillainsRule4000/BookmarkletsBETA">Bookmarklets</a> (Beta)<br>
     <a href="https://github.com/villainsrule2000/blacketArchives">blacketArchives</a> (Archived)
   </p>
 </div>
