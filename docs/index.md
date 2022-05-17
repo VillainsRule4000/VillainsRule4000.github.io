@@ -7,13 +7,13 @@
 
 
   <p align="center">
-    Account (for personal repositories & collaborations): <a href="https://github.com/TheVillainCoder">TheVillainCoder</a><br>
-    Org (for finished projects & my owned collaborations): <a href="https://github.com/orgs/TheVillainCoders">TheVillainCoders</a><br>
+    Account (for personal repositories & collaborations): <a href="https://github.com/VillainsRule4000">VillainsRule4000</a><br>
+    Org (for finished projects & my owned collaborations): <a href="https://github.com/orgs/VillainsRule2000">VillainsRule2000</a><br>
   </p>
 </div>
 <div id="top"></div>
 <div align="center">
-  <h3 align="center"><a href="https://github.com/orgs/TheVillainCoders/discussions">Contact Me!</a></h3>
+  <h3 align="center"><a href="https://github.com/orgs/VillainsRule2000/discussions">Contact Me!</a></h3>
 </div>
 <br>
 <div id="top"></div>
@@ -23,13 +23,14 @@
 
   <p align="center">
     <a href="https://github.com/VillainsRule2000/8Ball">8Ball</a><br>
-    <a href="https://github.com/villainsrule2000/Blax">Blax</a> (Version 4.0)<br>
-    <a href="https://github.com/VillainsRule2000/Bookmarklets">Bookmarklets</a><br>
-    <a href="https://github.com/Hankypoo7/Blooket-hacks-Hankypoo7-">Hankypoo7/Blooket-hacks-Hankypoo7-</a><br>
+    <a href="https://villainsrule2000.github.io/Betastar/">Betstar</a> (Version 4.1)<br>
+    <a href="https://villainsrule2000.github.io/Blooket/">Blooket</a><br>
+    <a href="https://villainsrule2000.github.io/Bookmarklets/">Bookmarklets</a><br>
     <a href="https://villainsrule2000.github.io/centirdle/">Centirdle</a><br>
+    <a href="https://villainsrule2000.github.io/GamingHax/">GamingHax</a><br>
     <a href="https://github.com/villainsrule2000/GithubAddons">GithubAddons</a><br>
     <a href="https://villainsrule2000.github.io/rickroll">rickroll</a> (NOT A RICKROLL)<br>
-    <a href="https://github.com/villainsrule2000/blacketArchives">blacketArchives</a> (Archived)
+    <a href="https://github.com/villainsrule2000/Blacket">Blacket</a> (Archived)
   </p>
 </div>
 <br>
@@ -78,7 +79,7 @@
 <div id="top"></div>
 <br />
 <div align="center">
-  <h2 align="center">Blook Collection</h2>
+  <h2 align="center">Blook Collection (main account)</h2>
 
   <h3 align="center">Completed Boxes</h3>
   
@@ -92,7 +93,7 @@
   <h3 align="center">Uncomplete Boxes</h3>
   
   <p align="center">
-    Dino - Missing Triceratops & Tyrannasaurous Rex (both of these are on an alt)<br>
+    Dino - Missing Tyrannasaurous Rex on an alt)<br>
     Safari - Missing Rainbow Panda<br>
     Space - Missing all Chromas<br>
   </p>
