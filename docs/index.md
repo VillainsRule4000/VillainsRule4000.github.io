@@ -1,36 +1,39 @@
 <div id="top"></div>
 <br />
 <div align="center">
-    <img src="https://avatars.githubusercontent.com/u/101288516?v=4" alt="Logo" width="200" height="200">
+    <img src="https://avatars.githubusercontent.com/u/101288516?v=4" alt="Logo" width="300" height="300">
   <h1 align="center">VillainsRule</h1>
-  <h3 align="center">Welcome!</h3>
-
-
-  <p align="center">
-    Account (for personal repositories & collaborations): <a href="https://github.com/VillainsRule4000">VillainsRule4000</a><br>
-    Org (for finished projects & my owned collaborations): <a href="https://github.com/orgs/VillainsRule2000">VillainsRule2000</a><br>
-  </p>
-</div>
-<div id="top"></div>
-<div align="center">
+  <h3 align="center">Welcome to my profile...</h3>
   <h3 align="center"><a href="https://github.com/orgs/VillainsRule2000/discussions">Contact Me!</a></h3>
 </div>
 <br>
 <div id="top"></div>
 <br />
 <div align="center">
-  <h2 align="center">My Projects</h2>
+  <h2 align="center">Personal Projects</h2>
 
   <p align="center">
     <a href="https://github.com/VillainsRule2000/8Ball">8Ball</a><br>
-    <a href="https://villainsrule2000.github.io/Betastar/">Betstar</a> (Version 4.1)<br>
-    <a href="https://villainsrule2000.github.io/Blooket/">Blooket</a><br>
     <a href="https://villainsrule2000.github.io/Bookmarklets/">Bookmarklets</a><br>
-    <a href="https://villainsrule2000.github.io/centirdle/">Centirdle</a><br>
-    <a href="https://villainsrule2000.github.io/GamingHax/">GamingHax</a><br>
     <a href="https://github.com/villainsrule2000/GithubAddons">GithubAddons</a><br>
     <a href="https://villainsrule2000.github.io/rickroll">rickroll</a> (NOT A RICKROLL)<br>
-    <a href="https://github.com/villainsrule2000/Blacket">Blacket</a> (Archived)
+  </p>
+  <br>
+  <h2 align="center">iBlooket/BlooketTools Projects</h2>
+
+  <p align="center">
+    <a href="https://iblooket.github.io/Injectables">iBlooket/Injectables</a><br>
+      <a href="https://blookettools.github.io/blooktubers/">BlooketTools/Blooktubers</a><br>
+    <a href="https://github.com/BlooketTools/Schoolcheats">BlooketTools/Schoolcheats</a><br>
+    <a href="https://iblooket.github.io">iBlooket</a> <b>(Taken down)</b>
+  </p>
+  <br>
+  <h2 align="center">BetastarGame Projects</h2>
+
+  <p align="center">
+    <a href="https://betastargame.github.io">BetastarGame</a><br>
+    <a href="https://github.com/BetastarGame/StarterGuide">BetastarGame/StarterGuide</a><br>
+    <a href="https://github.com/BetastarGame/Blacket">BetastarGame/Blacket</a>
   </p>
 </div>
 <br>
@@ -84,6 +87,7 @@
   <h3 align="center">Completed Boxes</h3>
   
   <p align="center">
+    Dino<br>
     Aquatic<br>
     Bot<br>
     Breakfast<br>
@@ -93,7 +97,6 @@
   <h3 align="center">Uncomplete Boxes</h3>
   
   <p align="center">
-    Dino - Missing Tyrannasaurous Rex on an alt)<br>
     Safari - Missing Rainbow Panda<br>
     Space - Missing all Chromas<br>
   </p>
