@@ -55,7 +55,7 @@
   <h1 align="center"><a href="https://betastar.org/stats">My Betastar Profile</a></h1>
 
   <p align="center">
-    <img src="https://betastar.org/image/elements/gold.png" alt="Profile Element" width="200" height="200"><br>
+    <img src="https://betastar.org/image/elements/blueKrypton.png" alt="Profile Element" width="200" height="200"><br>
   </p>
   <h3 align="center">VillainsRule</h3>
   <p align="center">
@@ -68,8 +68,8 @@
 
   <p align="center">
     I have almost all of them, except a few.<br>
-    As of 6/12, I need Platinum, Blue Krypton, Yellow Xenon,<br>
-    Bismuth, Europium, Activaed Uranium, Amber, Jenny, Bia, and SlipperyT.
+    As of 6/22, I need Yellow Xenon, Bismuth, Europium,<br>
+    Activaed Uranium, Amber, Jenny, Bia, and SlipperyT.
   </p>
 </div>
 <br>
