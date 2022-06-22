@@ -12,6 +12,7 @@
     <a href="https://villainsrule2000.github.io/Bookmarklets/">Bookmarklets</a><br>
     <a href="https://github.com/villainsrule2000/GithubAddons">GithubAddons</a><br>
     <a href="https://villainsrule2000.github.io/rickroll">rickroll</a> (NOT A RICKROLL)<br>
+    <a href="https://betastargame.github.io">BetastarGame</a> (Archived)
   </p>
   <br>
   <h2 align="center">iBlooket</h2>
@@ -19,14 +20,6 @@
   <p align="center">
      <a href="https://iblooket.github.io">iBlooket</a><br>
      <a href="https://iblooket.github.io/Injectables">iBlooket/Injectables</a>
-  </p>
-  <br>
-  <h2 align="center">BetastarGame Projects</h2>
-
-  <p align="center">
-    <a href="https://betastargame.github.io">BetastarGame</a><br>
-    <a href="https://github.com/BetastarGame/ChatQuotes">BetastarGame/ChatQuotes</a><br>
-    <a href="https://github.com/BetastarGame/Blacket">BetastarGame/Blacket</a>
   </p>
 </div>
 <br>
