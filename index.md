@@ -6,9 +6,10 @@
   <h2>Personal Projects</h2>
 
   <p>
-    <a href="https://villainsrule2000.github.io/Bookmarklets/">Bookmarklets</a><br>
-    <a href="https://github.com/villainsrule2000/GithubAddons">GithubAddons</a><br>
-    <a href="https://betastargame.github.io">BetastarGame</a> (Archived)
+    <a href="https://villainsrule4000.github.io/Bookmarklets/">Bookmarklets</a><br>
+    <a href="https://github.com/VillainsRule4000/GithubAddons">GithubAddons</a><br>
+    <a href="https://github.com/VillainsRule4000/redirect-site">redirect-site</a><br>
+    <a href="https://github.com/VillainsRule4000/rickroll">rickroll</a>
   </p>
   <br>
   <h2>BetastarUtils</h2>
